@@ -8,8 +8,7 @@ SIEM monitoring and automated threat mitigation lab.
 ### **Technical Reports & Evidence**
 For a deep dive into the methodology and 137k+ security events analyzed, please view the reports below:
 
-* [📄 View: Threat Assessment & Remediation Report (PDF)](threat-report.pdf)
-### **Technical Evidence & Dashboards**
-To see the live environment used for this investigation, please view the compiled dashboard screenshots:
+### **Project Evidence & Dashboards**
+The following document contains the 137,352 hits and Romanian IP analysis from the Wazuh SIEM lab.
 
-* [📊 View: Wazuh SIEM Visualizations (PDF)](dashboard-evidence.pdf)
+* [View: Wazuh SIEM Visualizations (PDF)](dashboard-evidence.pdf)
