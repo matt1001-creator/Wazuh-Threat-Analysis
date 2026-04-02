@@ -1,5 +1,4 @@
-# Wazuh-Threat-Analysis
-SIEM monitoring and automated threat mitigation lab
+# Threat-Analysis-and-Infrastructure-Hardening
 ### **Full Technical Reports**
 For a deep dive into the methodology and findings of these projects, please view the full reports below:
 # Cybersecurity Research & Threat Investigation Portfolio
